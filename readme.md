@@ -1,6 +1,6 @@
 # Rewind: git history analysis scripts
 
-A small library of handy git analysis scripts
+A small library of handy and possibly correct git analysis scripts
 roughly inspired by Gary Bernhardt's [Destroy All
 Software](https://www.destroyallsoftware.com/) screencasts, and
 extensively documented in my ebook _[Unfuck A Monorail For Great
